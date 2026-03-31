@@ -171,11 +171,14 @@ You will also see:
 ## 📁 Project Structure
 
 ```
+├── report/
+├── screenshots/
+├── README.md
 ├── app.py
 ├── loan_model_training.py
 ├── model.pkl
-├── train.csv
 ├── requirements.txt
-├── screenshots/
-├── report/
+├── train.csv
+
+
 ```
