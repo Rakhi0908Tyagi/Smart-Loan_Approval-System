@@ -15,7 +15,7 @@ The user enters details like income, loan amount, credit history, and other info
 
 ## ⚙️ How to Set Up This Project (Step-by-Step)
 
-Follow each step carefully. No prior knowledge is required.
+Follow each step carefully. given below
 
 ---
 
